@@ -1,4 +1,2 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
+这是2021年我的秋招面试（笔试）中遇见的各种题，作为记录
+或许会侵权，先试着放在github上方便管理下
